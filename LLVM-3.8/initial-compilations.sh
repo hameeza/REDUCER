@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##############################This file contains code to generate un-optimized IR
+##############################This file contains code to generate un-optimized IR in LLVM-3.8
 
 LLVM_BIN=/home/abc/clang+llvm-3.8.0-x86_64-linux-gnu-ubuntu-16.04/bin
 
